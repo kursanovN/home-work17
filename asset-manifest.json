@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/home-work17/static/css/main.5eb8d6c3.css",
+    "main.js": "/home-work17/static/js/main.f2a4ff7d.js",
+    "static/media/лого.svg": "/home-work17/static/media/лого.b36985c64bf55c8f82097804902593f1.svg",
+    "index.html": "/home-work17/index.html",
+    "main.5eb8d6c3.css.map": "/home-work17/static/css/main.5eb8d6c3.css.map",
+    "main.f2a4ff7d.js.map": "/home-work17/static/js/main.f2a4ff7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eb8d6c3.css",
+    "static/js/main.f2a4ff7d.js"
+  ]
+}
